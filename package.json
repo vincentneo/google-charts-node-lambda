@@ -14,8 +14,7 @@
     "format": "prettier --single-quote --trailing-comma all --print-width 100 --write \"**/*.js\""
   },
   "dependencies": {
-    "chrome-aws-lambda": "^10.1.0",
-    "puppeteer-core": "^14.0.0"
+    "chrome-aws-lambda": "^10.1.0"
   },
   "devDependencies": {
     "@arkweid/lefthook": "^0.6.3",
